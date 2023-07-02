@@ -28,11 +28,17 @@
 <div align="center">
   <h3>Find me on:</h3>
   <a href="https://ogelgames.itch.io/"><img width=64 src="icons/itchio.png" alt="Itch.io"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ldjam.com/users/ogelgames/"><img width=64 src="icons/ludumdare.png" alt="Ludum Dare"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://opengameart.org/users/ogelgames"><img width=64 src="icons/opengameart.png" alt="Open Game Art"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://gitlab.com/OgelGames"><img width=64 src="icons/gitlab.png" alt="GitLab"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://notabug.org/OgelGames"><img width=64 src="icons/notabug.png" alt="Not A Bug"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://gamejolt.com/@OgelGames"><img width=64 src="icons/gamejolt.png" alt="Game Jolt"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.youtube.com/channel/UC3A1eE6Kkg_NejplTSYv1Vw"><img width=64 src="icons/youtube.png" alt="YouTube"/></a>
 </div>
 
