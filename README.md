@@ -4,6 +4,19 @@
 <div align="center">
   <picture>
     <source
+      srcset="https://readme-typing-svg.demolab.com?weight=600&size=20&duration=2000&pause=2000&color=E6EDF3&center=true&vCenter=true&width=500&lines=I+develop+games+with+Godot;I+make+mods+for+Minetest;I+write+code+in+Lua+C%2B%2B+C%23+and+JS;I+draw+pixel+art+with+Aseprite;I+open+source+my+code+on+GitHub"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://readme-typing-svg.demolab.com?weight=600&size=20&duration=2000&pause=2000&color=1F2328&center=true&vCenter=true&width=500&lines=I+develop+games+with+Godot;I+make+mods+for+Minetest;I+write+code+in+Lua+C%2B%2B+C%23+and+JS;I+draw+pixel+art+with+Aseprite;I+open+source+my+code+on+GitHub"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://readme-typing-svg.demolab.com?weight=600&size=20&duration=2000&pause=2000&color=1F2328&center=true&vCenter=true&width=500&lines=I+develop+games+with+Godot;I+make+mods+for+Minetest;I+write+code+in+Lua+C%2B%2B+C%23+and+JS;I+draw+pixel+art+with+Aseprite;I+open+source+my+code+on+GitHub" />
+  </picture>
+</div>
+<div align="center">
+  <picture>
+    <source
       srcset="https://github-readme-stats.vercel.app/api?username=OgelGames&include_all_commits=true&hide=stars&bg_color=00000000&hide_border=true&theme=github_dark_dimmed"
       media="(prefers-color-scheme: dark)"
     />
