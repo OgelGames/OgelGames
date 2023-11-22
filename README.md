@@ -5,14 +5,14 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank">
     <picture>
       <source
-        srcset="https://readme-typing-svg.demolab.com?weight=600&size=20&duration=2000&pause=2000&color=E6EDF3&center=true&vCenter=true&width=500&lines=I+develop+games+with+Godot;I+make+mods+for+Minetest;I+write+code+in+Lua+C%2B%2B+C%23+and+JS;I+open+source+my+code+on+GitHub"
+        srcset="https://readme-typing-svg.demolab.com?weight=600&size=20&duration=2000&pause=2000&color=E6EDF3&center=true&vCenter=true&width=500&lines=I+make+games+with+Godot;I+make+mods+for+Minetest;I+write+code+in+Lua+and+C%2B%2B"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://readme-typing-svg.demolab.com?weight=600&size=20&duration=2000&pause=2000&color=1F2328&center=true&vCenter=true&width=500&lines=I+develop+games+with+Godot;I+make+mods+for+Minetest;I+write+code+in+Lua+C%2B%2B+C%23+and+JS;I+open+source+my+code+on+GitHub"
+        srcset="https://readme-typing-svg.demolab.com?weight=600&size=20&duration=2000&pause=2000&color=1F2328&center=true&vCenter=true&width=500&lines=I+make+games+with+Godot;I+make+mods+for+Minetest;I+write+code+in+Lua+and+C%2B%2B"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://readme-typing-svg.demolab.com?weight=600&size=20&duration=2000&pause=2000&color=1F2328&center=true&vCenter=true&width=500&lines=I+develop+games+with+Godot;I+make+mods+for+Minetest;I+write+code+in+Lua+C%2B%2B+C%23+and+JS;I+open+source+my+code+on+GitHub" />
+      <img src="https://readme-typing-svg.demolab.com?weight=600&size=20&duration=2000&pause=2000&color=1F2328&center=true&vCenter=true&width=500&lines=I+make+games+with+Godot;I+make+mods+for+Minetest;I+write+code+in+Lua+and+C%2B%2B" />
     </picture>
   </a>
 </div>
@@ -56,6 +56,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://gamejolt.com/@OgelGames"><img width=64 src="icons/gamejolt.png" alt="Game Jolt"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/channel/UC3A1eE6Kkg_NejplTSYv1Vw"><img width=64 src="icons/youtube.png" alt="YouTube"/></a>
+  <a href="https://www.youtube.com/@OgelGames"><img width=64 src="icons/youtube.png" alt="YouTube"/></a>
 </div>
 
